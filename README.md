@@ -2,7 +2,7 @@
 
 
 - 🌱 Desenvolvedora front-end.
-- 🌱 HTML, CSS, JavaScript, React.
+- 🌱 HTML, CSS, JavaScript, ReactJS, NEXTJS
 - 📫 Contate-me no email: dayannealcantara14@gmail.com.
 
  <div>
